@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 1.2,
+    "python.languageServer": "Pylance",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**.*}.{txt,in}": "pip-requirements"
+    }
+}
